@@ -1,19 +1,15 @@
-# prep code Challenges
+# Project Name: Movies-Library Project Version: 1.0.0
 
-## Language: `JavaScript`
+**Author Name: Bnan Zhran**
 
-## User's guide
+## WRRC
+![WRRC pic](./assest/Capture2.PNG)
 
-- To retrieve the code challenge from problems space enter `npm run pull-challenge <challenge-number>`
+## Overview
 
-  - For example:
-
-    ```bash
-    npm run pull-challenge 06
-    ```
-
-- To execute the tests run your the test from the root of `prep-challenges` repo :
-
-  - to run all tests:`npm test`
-  - to run specific tests: `npm test <test-number>`
-    - For example: `npm test 06`
+## Getting Started
+<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+**The user must go to the corresponding page and send resquest**
+## Project Features
+<!-- What are the features included in you app -->
+**It filters all information into information that is useful to the user**
